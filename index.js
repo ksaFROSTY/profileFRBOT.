@@ -156,4 +156,4 @@ bot.on("ready", () => {
   console.log(bot.user.tag)
 }) 
 
-bot.login(botconfig.token);
+bot.login("Njg2NjY2ODIwNjg5NTkyMzIw.Xqx-lw.88LxT5OXpgmxKoe5t5Hg6FBFrQ0");
