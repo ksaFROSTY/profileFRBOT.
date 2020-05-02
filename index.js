@@ -156,4 +156,4 @@ bot.on("ready", () => {
   console.log(bot.user.tag)
 }) 
 
-bot.login("Njg2NjY2ODIwNjg5NTkyMzIw.Xqx-lw.88LxT5OXpgmxKoe5t5Hg6FBFrQ0");
+bot.login("Njg2NjY2ODIwNjg5NTkyMzIw.Xqy5Og.vxk8ekOBmXZHGccdyc-pZQeU4pc");
